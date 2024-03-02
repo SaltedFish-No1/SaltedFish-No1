@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently is a graduate student from Georgia Tech.
+- 🔭 I’m a graduate student from Georgia Tech currently.
 
 - 🌱 I’m currently learning NetworkSecurity/Flutter/Dart/Unreal
 
