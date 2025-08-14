@@ -6,4 +6,4 @@ Hi there 👋
 
 💬 Feel free to reach out with any questions or feedback on my projects. Open to collaboration and contributions!
 
-Check out my [portfolio]((https://hchen.me)) for more.
+Check out my [portfolio](https://hchen.me) for more.
