@@ -6,4 +6,4 @@
 
 - 💬 If you have any question about my previous project, please feel free to pull a request and contact me.
 
-Wanna know more, visit [my site](hchen.me)
+Wanna know more, visit [my site](https://hchen.me)
