@@ -1,9 +1,9 @@
-### Hi there 👋
+Hi there 👋
 
-- 🔭 I’m a Web Developer@ByteDance currently.
+🔭 I’m a Front-End Developer at ByteDance, focusing on building high-performance web applications.
 
-- 🌱 I’m currently doing a full stack project that can speed the resume tailor up.
+🌱 Currently working on a full-stack project to accelerate resume tailoring using AI and automation.
 
-- 💬 If you have any question about my previous project, please feel free to pull a request and contact me.
+💬 Feel free to reach out with any questions or feedback on my projects. Open to collaboration and contributions!
 
-Wanna know more, visit [my site](https://hchen.me)
+Check out my [portfolio]((https://hchen.me)) for more.
